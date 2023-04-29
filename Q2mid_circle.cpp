@@ -1,7 +1,8 @@
-#include<iostream.h>
-#include<math.h>
+#include<iostream>
+#include<cmath>
 #include<graphics.h>
 
+using namespace std;
 
 void Circle_Points(int x1, int y1,int x,  int y, int value);
 void Circle(int x1, int y1, int r, int value)
@@ -18,20 +19,20 @@ void Circle(int x1, int y1, int r, int value)
     cout<<"Values after iteration us :";
     while(y>x)
     {
-	if(d<0)
-	{
-	    d+=2*x+3;
-	    cout<<"Value of d is:"<<d<<"\n";
-	}
-	else
-	{
-	    d+=2*(x-y) +5;
-	    cout<<"Value of d is: "<<d<<"\n";
-	    y--;
-	}
-	x++;
-	Circle_Points(x1,y1, x, y, value);
-	cout<<x<<" "<<y<<"\n";
+        if(d<0)
+        {
+            d+=2*x+3;
+            cout<<"Value of d is:"<<d<<"\n";
+        }
+        else
+        {
+            d+=2*(x-y) +5;
+            cout<<"Value of d is: "<<d<<"\n";
+            y--;
+        }
+        x++;
+        Circle_Points(x1,y1, x, y, value);
+        cout<<x<<" "<<y<<"\n";
     }
     delay(10000);
     closegraph();
