@@ -1,0 +1,7 @@
+Enter the starting coordinate
+100 100
+Enter the ending coordinate
+200 300
+Enter the color of the line
+WHITE
+

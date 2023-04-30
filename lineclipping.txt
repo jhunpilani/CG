@@ -1,0 +1,4 @@
+Enter the line endpoints: 50 100 300 500
+Enter the clipping window: 100 150 500 400
+Enter the color value: 5
+

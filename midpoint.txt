@@ -1,0 +1,7 @@
+Here's a sample input for the given code:
+
+Enter the radius of the circle: 50
+Enter x: 100
+Enter y: 100
+
+The above input will draw a circle with a radius of 50 pixels and center at (100, 100) on the screen with a color code of 1111.

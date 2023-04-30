@@ -1,0 +1,17 @@
+Bezier Curve:
+Enter x and y coordinates
+x1: 50
+y1: 100
+x2: 150
+y2: 250
+x3: 250
+y3: 50
+x4: 350
+y4: 200
+Hermite Curve:
+Enter the x coordinate of 1st hermite point: 50
+Enter the y coordinate of 1st hermite point: 50
+Enter the x coordinate of 4th hermite point: 250
+Enter the y coordinate of 4th hermite point: 250
+Enter tangent at p1: 1.5
+Enter tangent at p4: 0.5

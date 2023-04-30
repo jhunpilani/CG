@@ -1,0 +1,9 @@
+Coordinates of rectangular clip window :
+xmin,ymin : 50 50
+xmax,ymax : 350 350
+
+Polygon to be clipped :
+Number of sides : 4
+Enter the coordinates : 100 100 300 100 300 300 100 300
+
+This input defines a rectangular clip window with a lower-left corner at (50, 50) and an upper-right corner at (350, 350). It also defines a polygon with four vertices located at (100, 100), (300, 100), (300, 300), and (100, 300), respectively.

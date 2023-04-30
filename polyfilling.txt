@@ -1,0 +1,9 @@
+Enter the no. of vertices of the polygon : 5
+
+Enter the vertices :-
+P1 : 100 100
+P2 : 200 200
+P3 : 300 100
+P4 : 250 50
+P5 : 150 50
+

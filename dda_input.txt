@@ -1,0 +1,7 @@
+Enter starting corrdinate
+100 200
+Enter ending corodinates
+400 500
+Enter color of line
+15
+

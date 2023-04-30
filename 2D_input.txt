@@ -1,0 +1,34 @@
+Here are some sample inputs for each transformation option:
+
+Translation:
+
+Enter the number of sides of the polygon: 4
+Enter the coordinate 0 of the polygon: 100 100
+Enter the coordinate 1 of the polygon: 200 100
+Enter the coordinate 2 of the polygon: 200 200
+Enter the coordinate 3 of the polygon: 100 200
+Enter the distance for translation in x coordinate: 50
+Enter the distance for translation in y coordinate: 50
+Rotation:
+
+Enter the number of sides of the polygon: 3
+Enter the coordinate 0 of the polygon: 100 100
+Enter the coordinate 1 of the polygon: 150 150
+Enter the coordinate 2 of the polygon: 100 200
+Enter the angle for rotation: 45
+Enter the point from where it needs to be rotated: 100 100
+Shearing:
+
+Enter the number of sides of the polygon: 4
+Enter the coordinate 0 of the polygon: 100 100
+Enter the coordinate 1 of the polygon: 200 100
+Enter the coordinate 2 of the polygon: 200 200
+Enter the coordinate 3 of the polygon: 100 200
+Enter the shearing factor: 1 0
+Scaling:
+
+Enter the number of sides of the polygon: 3
+Enter the coordinate 0 of the polygon: 100 100
+Enter the coordinate 1 of the polygon: 150 150
+Enter the coordinate 2 of the polygon: 100 200
+Enter the scaling factor: 2 2
